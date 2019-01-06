@@ -16,3 +16,4 @@ class App < Sinatra::Base
     @session = session
   end
 end
+ 
